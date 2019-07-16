@@ -46,8 +46,8 @@ const tableDataProviderConfig: TableDataProviderConfig = {
 const paginatorItems: PaginatorItems = {
     items: [
         {
-            key: 25,
-            label: '25'
+            key: 10,
+            label: '10'
         },
         {
             key: 50,
