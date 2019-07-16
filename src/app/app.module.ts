@@ -12,8 +12,7 @@ import {
     HLC_CLR_TABLE_PAGINATOR_ITEMS,
     PaginatorItems,
     Table,
-    TableDataProviderConfig,
-    PaginatorItems
+    TableDataProviderConfig
 } from '@ng-holistic/clr-list';
 
 // CLARITY ICONS DEPENDENCY: THIS REQUIRED ONLY IN STACKBLITZ SEE #700
